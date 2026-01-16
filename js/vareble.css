@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+}
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    align-items: center;
+display: flex;
+justify-content: center;
+}
